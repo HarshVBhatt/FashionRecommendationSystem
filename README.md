@@ -10,6 +10,7 @@ A hybrid recommendation system utilizing collaborative, product-based and user a
 - Recommendation Driver: For a given user id, generate 3 types of recommendations - Similar users also like (Collaborative), Similar fit products (User Attribute-based), Similar to products you like (Content-based)
 
 ## Full System Architecture
-![Full System Architecture](https://github.com/HarshVBhatt/FashionRecommendationSystem/assets/69580380/90570b99-83a1-4a06-9dbe-2bafe57cb952)
+![Full System Architecture](https://github.com/HarshVBhatt/FashionRecommendationSystem/assets/69580380/b1220bfe-2c29-4a7b-80ab-d356b52aa3b7)
+
 
 
